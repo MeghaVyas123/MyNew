@@ -1,2 +1,0 @@
-This is a testing file
-This line is added just now.
